@@ -1,4 +1,4 @@
-class TestPracticeC {
+class TestPractice {
 
     public static boolean isSum2(int[] a, int num) {
         int temp = num;
