@@ -15,7 +15,7 @@ public class TestPractice {
         if (currentSum == 0) {
             return true;
         }
-        if (index > a.length - 1) {
+        if (index == a.length) {
             return false;
         } else {
             index++;
@@ -32,7 +32,7 @@ public class TestPractice {
         if (currentSum == 0) {
             return true;
         }
-        if (index > a.length - 1) {
+        if (index == a.length) {
             return false;
         } else {
             index++;
